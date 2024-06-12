@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la   la -la "parent_directory" ls -la /boot
+ls -la ls -la "parent_directory" ls -la /boot
